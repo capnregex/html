@@ -1,0 +1,38 @@
+html {
+  background: #ccc;
+}
+body {
+  margin: 20px;
+  padding: 0 20px;
+  background: #fff;
+}
+h1 {
+  color: blue;
+}
+span {
+  color: green;
+}
+#time {
+  color: #00f;
+  font-style: normal;
+  font-family: sans-serif;
+}
+.s {
+  color: red;
+  font-style: italic;
+}
+p {
+  background: #cfc;
+}
+div {
+  border: solid red 1px;
+  background: #99f;
+}
+div div {
+  font-size: 60px;
+  background: #f9f;
+  font-weight: bold;
+  position: relative;
+  top: -20px;
+  left: 20px;
+}
